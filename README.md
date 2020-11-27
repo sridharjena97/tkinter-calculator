@@ -20,6 +20,7 @@ Install the dependencies and devDependencies and start the application.
 
 ```sh
 $ sudo apt install python3
+$ choco install python
 ```
 ### Todos
 
