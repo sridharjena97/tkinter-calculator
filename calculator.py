@@ -11,6 +11,7 @@ class GUI(Tk):
         super().__init__()
         self.geometry("400x580")
         self.minsize(400,580)
+        self.maxsize(420,580)
     def statusbar(self):
         '''
         To show status at buttom of GUI
