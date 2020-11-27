@@ -19,7 +19,7 @@ Need to install python >=3.7
 Install the dependencies and devDependencies and start the application.
 
 ```sh
-$ Tkinter
+$ sudo apt install python3
 ```
 ### Todos
 
